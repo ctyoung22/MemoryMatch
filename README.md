@@ -1,6 +1,6 @@
 ## Getting Started
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+A memory game where you have to match 8 pairs of tiles in a 4x4 grid by revealing them individually for a short window. A timer tracks time elapsed since the game began and stops when all tiles are matched.
 
 ## Folder Structure
 
